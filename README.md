@@ -1,3 +1,4 @@
+# MyTomorrows 'Sign-up new user' flow
 1. The assignment is written in Typescript and Playwright.
 
 2. Here are the most important three folders which contain the work I have done:
